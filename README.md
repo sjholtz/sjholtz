@@ -1,4 +1,7 @@
-## Hi there 👋
+## Steven (Steve) Holtz
+I've been a teaching professor at the University of Minnesota Duluth for the past 25 years. Then, this Spring my position was eliminated.
+
+So, I'm on the hunt for a job!
 
 <!--
 **sjholtz/sjholtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
