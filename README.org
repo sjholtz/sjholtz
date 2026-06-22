@@ -1,8 +1,6 @@
 #+title: My Profile
 #+author: Steven J Holtz
 
-* Steven (Steve) Holtz
-
 I've been a teaching professor at the University of Minnesota Duluth for the past 25 years. Then, this Spring my position was eliminated.
 
 So, I'm on the hunt for a job!
